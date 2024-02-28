@@ -54,4 +54,4 @@ Eleven node types are included in CTIKG and are created in accordance with STIX 
 |:-------:|:------:|:-----------:|:------:|
 |  CTIKG  | 13586  |     11      | 16869  |
 
-CTIKG is intrinsic a heterogeneous graph，so we preprocessed the dataset in the format of [HGB](https://www.biendata.xyz/hgb). Experiment results on HGB will be updated later.
+CTIKG is intrinsic a heterogeneous graph, so we preprocessed the dataset in the format of [HGB](https://www.biendata.xyz/hgb). Experiment results on HGB will be updated later.
